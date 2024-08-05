@@ -1,0 +1,24 @@
+.container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper{
+    height: 100vh;
+    position: relative;
+}
+
+.images{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.hide{
+    display: none;
+    /* visibility: hidden; */
+}
